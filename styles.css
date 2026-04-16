@@ -37,9 +37,20 @@ p {
 }
 
 /* Compleate challenge down here */
-div{
-  background-color:yellow
-height: 5px;
+.yellow-box{
+  background-color:yellow;
+}
+.green-box{
+  background-color: green;
+}
+.blue-box{
+  background-color:blue;
+}
+.red-box{
+  background-color: red;
+}
+.box-line{
+  display:inline-block
 }
 
 
